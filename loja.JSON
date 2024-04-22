@@ -1,0 +1,36 @@
+[
+    {
+     "id": "52546",
+     "nome": "camisetas",
+      "marca": "Pollo",
+      "categoria":"masculina",
+      "preço": 69.90,
+      "q.estoque":200,
+      "pronta entrega": false
+   
+   
+      
+    },
+   
+    {
+       "id": "52530",
+       "nome": "camisetas",
+        "marca": ["Pollo","levis"],
+        "categoria":"feminina",
+        "preço": 69.90,
+        "q.estoque":300,
+        "pronta entrega": true
+     
+     
+    },
+    {
+       "id": "52521",
+       "nome": "camisetas",
+        "marca": "levis",
+        "categoria":"masculina",
+        "preço": 99.90,
+        "q.estoque":180,
+        "pronta entrega": true
+     
+    }
+   ]  
